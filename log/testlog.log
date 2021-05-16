@@ -1,0 +1,160 @@
+2021-03-02 21:21:31,127 - inetBanking -INFO - URL is opened
+2021-03-02 21:21:46,985 - inetBanking -INFO - Entered username
+2021-03-02 21:21:47,130 - inetBanking -INFO - Entered password
+2021-03-02 21:21:52,635 - inetBanking -INFO - Login test passed
+2021-03-02 22:02:51,401 - inetBanking -INFO - URL is opened
+2021-03-02 22:03:22,774 - inetBanking -INFO - URL is opened
+2021-03-03 18:24:15,274 - inetBanking -INFO - URL is opened
+2021-03-03 20:29:46,775 - inetBanking -INFO - URL is opened
+2021-04-17 14:36:10,721 - inetBanking -INFO - URL is opened
+2021-04-17 14:37:45,050 - inetBanking -INFO - URL is opened
+2021-04-17 15:24:10,072 - inetBanking -INFO - URL is opened
+2021-04-17 15:33:05,483 - inetBanking -INFO - URL is opened
+2021-04-17 15:34:05,730 - inetBanking -INFO - URL is opened
+2021-04-21 21:51:06,893 - inetBanking -INFO - URL is opened
+2021-04-24 13:54:59,794 - inetBanking -INFO - URL is opened
+2021-04-24 14:09:27,037 - inetBanking -INFO - URL is opened
+2021-04-24 14:13:02,020 - inetBanking -INFO - URL is opened
+2021-04-24 14:13:12,683 - inetBanking -INFO - Entered username
+2021-04-24 14:13:13,122 - inetBanking -INFO - Entered password
+2021-04-24 14:13:56,876 - inetBanking -INFO - URL is opened
+2021-04-24 14:14:05,918 - inetBanking -INFO - Entered username
+2021-04-24 14:14:06,492 - inetBanking -INFO - Entered password
+2021-04-24 14:14:08,941 - inetBanking -INFO - Login test passed
+2021-04-25 12:04:31,086 - inetBanking -INFO - username is provided
+2021-04-25 12:04:31,363 - inetBanking -INFO - password is provided
+2021-04-25 12:04:39,753 - inetBanking -INFO - Login passed
+2021-04-25 12:04:50,264 - inetBanking -INFO - username is provided
+2021-04-25 12:04:50,361 - inetBanking -INFO - password is provided
+2021-04-25 12:04:58,704 - inetBanking -INFO - username is provided
+2021-04-25 12:04:58,799 - inetBanking -INFO - password is provided
+2021-04-25 12:05:08,648 - inetBanking -INFO - Login passed
+2021-04-25 12:05:25,348 - inetBanking -INFO - username is provided
+2021-04-25 12:05:25,442 - inetBanking -INFO - password is provided
+2021-05-08 16:56:49,506 - inetBanking -INFO - Username is provided
+2021-05-08 16:56:49,942 - inetBanking -INFO - Password is provided
+2021-05-08 16:57:07,787 - inetBanking -INFO - Providing customer details...
+2021-05-09 21:50:22,381 - inetBanking -INFO - Username is provided
+2021-05-09 21:50:22,525 - inetBanking -INFO - Password is provided
+2021-05-09 21:50:33,549 - inetBanking -INFO - Providing customer details...
+2021-05-09 21:50:41,734 - inetBanking -INFO - Validarion started...
+2021-05-09 21:54:26,593 - inetBanking -INFO - Username is provided
+2021-05-09 21:54:26,710 - inetBanking -INFO - Password is provided
+2021-05-09 21:54:34,996 - inetBanking -INFO - Providing customer details...
+2021-05-09 21:54:44,064 - inetBanking -INFO - Validarion started...
+2021-05-09 21:54:44,146 - inetBanking -INFO - Test case passed...
+2021-05-09 21:57:34,679 - inetBanking -INFO - URL is opened
+2021-05-09 21:57:44,784 - inetBanking -INFO - Entered username
+2021-05-09 21:57:45,258 - inetBanking -INFO - Entered password
+2021-05-09 21:57:50,744 - inetBanking -INFO - Login test passed
+2021-05-09 21:58:16,696 - inetBanking -INFO - username is provided
+2021-05-09 21:58:16,851 - inetBanking -INFO - password is provided
+2021-05-09 21:58:28,356 - inetBanking -INFO - Login passed
+2021-05-09 21:58:46,636 - inetBanking -INFO - username is provided
+2021-05-09 21:58:46,743 - inetBanking -INFO - password is provided
+2021-05-09 21:59:07,728 - inetBanking -INFO - username is provided
+2021-05-09 21:59:07,840 - inetBanking -INFO - password is provided
+2021-05-09 21:59:16,251 - inetBanking -INFO - Login passed
+2021-05-09 21:59:33,345 - inetBanking -INFO - username is provided
+2021-05-09 21:59:33,481 - inetBanking -INFO - password is provided
+2021-05-09 22:00:21,740 - inetBanking -INFO - Username is provided
+2021-05-09 22:00:21,901 - inetBanking -INFO - Password is provided
+2021-05-09 22:00:31,346 - inetBanking -INFO - Providing customer details...
+2021-05-09 22:00:39,266 - inetBanking -INFO - Validarion started...
+2021-05-09 22:00:39,302 - inetBanking -INFO - Test case passed...
+2021-05-09 22:02:07,390 - inetBanking -INFO - URL is opened
+2021-05-09 22:02:23,394 - inetBanking -INFO - Entered username
+2021-05-09 22:02:23,881 - inetBanking -INFO - Entered password
+2021-05-09 22:02:25,549 - inetBanking -INFO - Login test passed
+2021-05-09 22:10:27,183 - inetBanking -INFO - username is provided
+2021-05-09 22:10:27,344 - inetBanking -INFO - password is provided
+2021-05-09 22:10:42,249 - inetBanking -INFO - username is provided
+2021-05-09 22:10:42,356 - inetBanking -INFO - password is provided
+2021-05-09 22:13:37,534 - inetBanking -INFO - URL is opened
+2021-05-09 22:13:51,605 - inetBanking -INFO - Entered username
+2021-05-09 22:13:51,993 - inetBanking -INFO - Entered password
+2021-05-09 22:13:54,006 - inetBanking -INFO - Login test passed
+2021-05-09 22:14:18,412 - inetBanking -INFO - username is provided
+2021-05-09 22:14:18,540 - inetBanking -INFO - password is provided
+2021-05-09 22:14:36,651 - inetBanking -INFO - Login passed
+2021-05-09 22:14:55,140 - inetBanking -INFO - username is provided
+2021-05-09 22:14:55,242 - inetBanking -INFO - password is provided
+2021-05-09 22:15:17,254 - inetBanking -INFO - username is provided
+2021-05-09 22:15:17,347 - inetBanking -INFO - password is provided
+2021-05-09 22:15:26,918 - inetBanking -INFO - Login passed
+2021-05-09 22:15:42,451 - inetBanking -INFO - username is provided
+2021-05-09 22:15:42,553 - inetBanking -INFO - password is provided
+2021-05-09 22:16:12,239 - inetBanking -INFO - Username is provided
+2021-05-09 22:16:12,386 - inetBanking -INFO - Password is provided
+2021-05-09 22:16:20,209 - inetBanking -INFO - Providing customer details...
+2021-05-09 22:16:29,286 - inetBanking -INFO - Validarion started...
+2021-05-09 22:16:29,318 - inetBanking -INFO - Test case passed...
+2021-05-10 11:22:51,076 - inetBanking -INFO - URL is opened
+2021-05-10 11:23:11,380 - inetBanking -INFO - Entered username
+2021-05-10 11:23:12,513 - inetBanking -INFO - Entered password
+2021-05-10 11:23:30,088 - inetBanking -INFO - Login test passed
+2021-05-10 11:24:04,813 - inetBanking -INFO - username is provided
+2021-05-10 11:24:04,993 - inetBanking -INFO - password is provided
+2021-05-10 11:24:14,654 - inetBanking -INFO - Login passed
+2021-05-10 11:24:24,870 - inetBanking -INFO - username is provided
+2021-05-10 11:24:24,974 - inetBanking -INFO - password is provided
+2021-05-10 11:24:35,668 - inetBanking -INFO - username is provided
+2021-05-10 11:24:35,777 - inetBanking -INFO - password is provided
+2021-05-10 11:24:44,256 - inetBanking -INFO - Login passed
+2021-05-10 11:25:00,716 - inetBanking -INFO - username is provided
+2021-05-10 11:25:00,827 - inetBanking -INFO - password is provided
+2021-05-10 11:25:41,268 - inetBanking -INFO - Username is provided
+2021-05-10 11:25:41,442 - inetBanking -INFO - Password is provided
+2021-05-10 11:25:54,209 - inetBanking -INFO - Providing customer details...
+2021-05-10 11:26:05,406 - inetBanking -INFO - Validarion started...
+2021-05-10 11:26:05,624 - inetBanking -INFO - Test case passed...
+2021-05-10 11:28:29,517 - inetBanking -INFO - Username is provided
+2021-05-10 11:28:29,869 - inetBanking -INFO - Password is provided
+2021-05-10 11:28:40,772 - inetBanking -INFO - Providing customer details...
+2021-05-10 11:28:50,338 - inetBanking -INFO - Validarion started...
+2021-05-10 11:28:50,536 - inetBanking -INFO - Test case passed...
+2021-05-10 11:34:53,589 - inetBanking -INFO - Username is provided
+2021-05-10 11:34:54,060 - inetBanking -INFO - Password is provided
+2021-05-10 11:35:12,125 - inetBanking -INFO - Providing customer details...
+2021-05-10 11:35:22,675 - inetBanking -INFO - Validarion started...
+2021-05-10 11:35:22,757 - inetBanking -INFO - Test case passed...
+2021-05-10 13:15:58,594 - inetBanking -INFO - Username is provided
+2021-05-10 13:15:58,849 - inetBanking -INFO - Password is provided
+2021-05-10 13:16:10,419 - inetBanking -INFO - Providing customer details...
+2021-05-10 13:16:19,130 - inetBanking -INFO - Validarion started...
+2021-05-10 13:16:19,195 - inetBanking -INFO - Test case passed...
+2021-05-10 13:19:58,850 - inetBanking -INFO - Username is provided
+2021-05-10 13:19:59,337 - inetBanking -INFO - Password is provided
+2021-05-10 13:20:07,991 - inetBanking -INFO - Providing customer details...
+2021-05-10 13:20:15,720 - inetBanking -INFO - Validarion started...
+2021-05-10 13:23:50,198 - inetBanking -INFO - Username is provided
+2021-05-10 13:23:50,481 - inetBanking -INFO - Password is provided
+2021-05-10 13:23:59,786 - inetBanking -INFO - Providing customer details...
+2021-05-10 13:24:11,103 - inetBanking -INFO - Validarion started...
+2021-05-10 13:24:11,149 - inetBanking -INFO - Test case passed...
+2021-05-10 13:31:57,981 - inetBanking -INFO - Username is provided
+2021-05-10 13:31:58,583 - inetBanking -INFO - Password is provided
+2021-05-10 13:32:13,473 - inetBanking -INFO - Providing customer details...
+2021-05-10 13:32:21,295 - inetBanking -INFO - Validarion started...
+2021-05-10 13:32:21,374 - inetBanking -INFO - Test case passed...
+2021-05-13 15:42:00,567 - inetBanking -INFO - Username is provided
+2021-05-13 15:42:02,705 - inetBanking -INFO - Password is provided
+2021-05-13 15:57:49,337 - inetBanking -INFO - Username is provided
+2021-05-13 15:57:49,597 - inetBanking -INFO - Password is provided
+2021-05-15 12:22:59,395 - inetBanking -INFO - Username is provided
+2021-05-15 12:22:59,624 - inetBanking -INFO - Password is provided
+2021-05-15 12:29:10,099 - inetBanking -INFO - Username is provided
+2021-05-15 12:29:10,694 - inetBanking -INFO - Password is provided
+2021-05-15 12:29:20,661 - inetBanking -INFO - Providing customer details...
+2021-05-15 12:29:30,668 - inetBanking -INFO - Validarion started...
+2021-05-15 12:29:30,750 - inetBanking -INFO - Test case passed...
+2021-05-15 22:14:12,375 - inetBanking -INFO - Username is provided
+2021-05-15 22:14:12,636 - inetBanking -INFO - Password is provided
+2021-05-15 22:14:21,024 - inetBanking -INFO - Providing customer details...
+2021-05-15 22:14:29,384 - inetBanking -INFO - Validarion started...
+2021-05-15 22:14:29,523 - inetBanking -INFO - Test case passed...
+2021-05-16 11:03:39,627 - inetBanking -INFO - Username is provided
+2021-05-16 11:03:40,134 - inetBanking -INFO - Password is provided
+2021-05-16 11:03:50,028 - inetBanking -INFO - Providing customer details...
+2021-05-16 11:03:59,095 - inetBanking -INFO - Validarion started...
+2021-05-16 11:03:59,285 - inetBanking -INFO - Test case passed...
