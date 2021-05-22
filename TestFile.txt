@@ -1,3 +1,0 @@
-This is TestFile.txt created for testing
-
-File has been updated
