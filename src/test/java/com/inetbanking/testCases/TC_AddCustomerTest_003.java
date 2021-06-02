@@ -1,6 +1,7 @@
 package com.inetbanking.testCases;
 
 import java.io.IOException;
+
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -50,12 +51,22 @@ public class TC_AddCustomerTest_003 extends BaseClass{
 		{
 			Assert.assertTrue(true);
 			logger.info("Test case passed...");
+			captureScreen(driver, "TC_AddCustomerTest_003");
+			
+			/*lp.clickLogout();
+			Thread.sleep(5000);
+			driver.switchTo().alert().accept();
+			logger.info("Application logged out successfully..."); */
 		}
 		else
 		{
 			captureScreen(driver, "addNewCustomer");
 			Assert.assertTrue(false);
 			logger.info("Test case failed...");
+			
+			/*lp.clickLogout();
+			Thread.sleep(2000);
+			logger.info("Application logged out successfully....");*/
 		}
 		
 	}

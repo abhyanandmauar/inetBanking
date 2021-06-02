@@ -5,5 +5,7 @@ F:\Automation\workspace\inetBanking\src\test\java\com\inetbanking\pageObjects\Lo
 F:\Automation\workspace\inetBanking\src\test\java\com\inetbanking\utilities\ReadConfig.java
 F:\Automation\workspace\inetBanking\src\test\java\com\inetbanking\testCases\TC_AddCustomerTest_003.java
 F:\Automation\workspace\inetBanking\src\test\java\com\inetbanking\utilities\XLUtils.java
+F:\Automation\workspace\inetBanking\src\test\java\com\inetbanking\testCases\TC_DeleteCustomerTest_004.java
 F:\Automation\workspace\inetBanking\src\test\java\com\inetbanking\pageObjects\AddCustomerPage.java
+F:\Automation\workspace\inetBanking\src\test\java\com\inetbanking\pageObjects\DeleteCustomerPage.java
 F:\Automation\workspace\inetBanking\src\test\java\com\inetbanking\utilities\Reporting.java
